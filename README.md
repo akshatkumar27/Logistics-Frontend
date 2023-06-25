@@ -1,7 +1,5 @@
 # Logistics Web App
 
-- 
-
 >   Testing:
 >   
 >   Manufacturer email: kumarakshatahy@gmail.com
